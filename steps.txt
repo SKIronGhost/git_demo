@@ -1,0 +1,7 @@
+STEPS
+1. I fork the demo repository in GitHub webpage
+2. I clone the repository to my computer
+3. I modified the html file
+4. I pushed the file
+5. I created this file
+6. I pushed everything
